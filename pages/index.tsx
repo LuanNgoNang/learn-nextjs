@@ -1,9 +1,5 @@
 import type { NextPage } from 'next'
-import Head from 'next/head'
-import Image from 'next/image'
 import Link from 'next/link'
-import { Footer } from '../components/Footer'
-import { Navbar } from '../components/Navbar'
 import styles from '../styles/Home.module.css'
 
 const Home: NextPage = () => {
@@ -15,6 +11,7 @@ const Home: NextPage = () => {
       <Link href={"/ninjas "}>
       <p className={styles.btn}>Link About</p>
       </Link>
+
     </div>
   )
 }
