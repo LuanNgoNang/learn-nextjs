@@ -11,6 +11,7 @@ export const Navbar = () => {
         <Link href="/"><a>About Me</a></Link>
         <Link href="/about"><a>Work Experience</a></Link>
         <Link href="/posts"><a>Contact</a></Link>
+        <Link href="/posts"><a>Comment</a></Link>
     </nav>
 
   </div>
