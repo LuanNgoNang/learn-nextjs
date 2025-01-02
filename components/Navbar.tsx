@@ -5,6 +5,7 @@ export const Navbar = () => {
   <div>
     <h1>Nguyễn Thành Luân</h1> 
     <h4>Software Engineer</h4>
+    <h5>Java Developer</h5>
     <nav>
         <div className='logo'>
         </div> 
