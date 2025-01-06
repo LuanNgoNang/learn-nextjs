@@ -6,6 +6,7 @@ export const posts = () => {
         <Link href="/"><h1>Posts</h1></Link>
         
     <div>Nothing Out Scope</div>  
+    <div>Nothing Out Scope B</div>  
     </div>
   )
 }
