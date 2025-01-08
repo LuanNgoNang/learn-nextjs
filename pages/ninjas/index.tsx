@@ -18,7 +18,7 @@ type Post= {
 const Ninjas = ({ data }:InferGetStaticPropsType<typeof getStaticProps>)=>{
   return (
     <>
-        <h1> AllNinjas </h1>    
+        <h1> AllNinjassaas </h1>    
         {data.map((post) => (    
             <><p>{post.id} </p><a>
                 <h3>{post.name}</h3>
